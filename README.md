@@ -44,7 +44,9 @@ I'm a passionate Java developer with a love for creating efficient and scalable 
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=manojvuddanti&show_icons=true&theme=radical)
+<!--![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=manojvuddanti&show_icons=true&theme=radical) -->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=manojvuddanti&show_icons=true&theme=radical&count_private=true)
+
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?manojvuddanti=manojvuddanti&layout=compact&theme=radical)
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?manojvuddanti=manojvuddanti&theme=radical) -->
 
